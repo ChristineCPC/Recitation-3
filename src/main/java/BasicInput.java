@@ -22,7 +22,6 @@ public class BasicInput {
         userString = scnr.next();
 
 
-
         // TODO (1): Finish reading other items into variables, then output the four values on a single line separated by a space
 
         System.out.print(userInt+" "+userDouble+" "+userChar+" "+userString+"\n");
